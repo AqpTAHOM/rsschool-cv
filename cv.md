@@ -1,16 +1,27 @@
 ## Andrew Korshunow
-## My Contact Info:
-### avtonom#9078(Discord) 
+ <hr \>
+ 
+### Contact information:
 
-### Andrew +37525 531-34-90(tg)
+#### •Discord: avtonom#9078
+#### **•Telegram:** Andrew +37525 531-34-90
+#### **•Phone:** +37525 531-34-90 
+ <hr \>
+ 
+### About me:
 
 #### I want to study programming for future working in this sphere
-
-#### I own some knowlege about HTML and CSS and want to know more
-
-#### examples... JavaScript:
-function multiply(a, b){
- return a * b;
-}
-#### I have no work experience.
-#### my english is A1
+#### I believe, that my ability to learn and to gain new skills will lead me through this path of becoming a proficient Frontend Developer.
+ <hr \>
+ 
+ ### Skills and Proficiency:
+ 
+ #### great desire to learn something
+  <hr \>
+  
+ ### Courses:
+ #### Learn HTML for myself
+ <hr \>
+ 
+ ### Languages:
+ ####• English - A1
