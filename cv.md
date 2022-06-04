@@ -18,8 +18,8 @@
  
 ### Skills and Proficiency:
  
-#### great desire to learn something
- <hr \>
+ #### great desire to learn something
+<hr \>
   
  ### Courses:
  #### Learn HTML for myself
